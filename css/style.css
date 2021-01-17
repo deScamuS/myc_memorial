@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
@@ -6,7 +7,8 @@
 	Common Css
 --*/
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+
   -webkit-font-smoothing: antialiased;
 }
 h1,
@@ -15,7 +17,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+
 }
 h2 {
   font-size: 30px;
@@ -49,7 +52,8 @@ a:active {
   font-weight: 600;
 }
 .section-title p {
-  font-family: 'Volkhov', serif;
+  font-family: 'Montserrat', sans-serif;
+
   font-style: italic;
   color: #666;
 }
@@ -122,7 +126,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+
   font-weight: 300;
   letter-spacing: 3px;
 }
